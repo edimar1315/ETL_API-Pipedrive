@@ -1,2 +1,3 @@
 # ETL_API-Pipedrive
-Obtenção e Desaninhamento dos Dados de Negócios da API do Pipedrive. 
+Obtenção e tratamento dos Dados retornado da API do Pipedrive. 
+
